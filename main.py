@@ -14,6 +14,5 @@ def balance_reaction(reaction): #"Fe2O3 + H2 -> Fe + H2O"
 
     return coefficients # [1/3, 1, 2/3, 1]
 
-print(balance_reaction("CH4 + O2 -> CO2 + H2O"))
 
 
